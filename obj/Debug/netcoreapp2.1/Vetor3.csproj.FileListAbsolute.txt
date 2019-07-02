@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\bin\Debug\netcoreapp2.1\Vetor3.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\bin\Debug\netcoreapp2.1\Vetor3.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\bin\Debug\netcoreapp2.1\Vetor3.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\bin\Debug\netcoreapp2.1\Vetor3.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\bin\Debug\netcoreapp2.1\Vetor3.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\obj\Debug\netcoreapp2.1\Vetor3.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\obj\Debug\netcoreapp2.1\Vetor3.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\obj\Debug\netcoreapp2.1\Vetor3.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\obj\Debug\netcoreapp2.1\Vetor3.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\obj\Debug\netcoreapp2.1\Vetor3.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor3\obj\Debug\netcoreapp2.1\Vetor3.pdb
